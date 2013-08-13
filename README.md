@@ -1,1 +1,1 @@
-# Toogle Toolbar view based on Sidebar view.
+Toggle Toolbar view based on Sidebar view.
