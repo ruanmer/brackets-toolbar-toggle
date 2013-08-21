@@ -1,0 +1,12 @@
+{
+    "name": "brackets-toolbar-toggle",
+    "title": "Toolbar Toggle",
+    "description": "Toggle Toolbar view based on Sidebar view.",
+    "homepage": "https://github.com/ruanmer/brackets-toolbar-toggle",
+    "version": "1.0.0",
+    "author": "Ruan Mér <ruanmer@gmail.com> (http://ruanmer.com/)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.28.0"
+    }
+}
